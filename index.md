@@ -1,22 +1,23 @@
 ---
-title: Brian Hochhalter
+title: About Brian Hochhalter
 ---
 
 ## Equipping design teams to build a better world
 
-Hello, I’m Brian. I lead experience design teams and help them scale effectively.
+Hello, I’m Brian. I lead and scale experience design teams.
 
 My joy is helping design teams achieve their best impact by connecting them with the tools they need to produce their best work. As a design leader, my team members and our partners in product and technology are the users.
 
-I address these users’ needs through the following process:
+### I address design, product, and development teams' needs through the following process:
 
-### Listen. Understand the team and context.
+#### Listen. Understand the team and context.
 I use UX research methods to understand the experience of team members and partners. This allows me to put their goals and needs at the center of improvements to design process, communication, tooling, metrics, and management.
 
-### Align. Orient to shared outcomes.
+#### Align. Orient to shared outcomes.
 With a clear understanding of needs and constraints across design, product, and technology, I work with team leaders to co-create metrics to verify when we’ve accomplished our shared outcomes.
 
-### Test. Find fit, then scale.
+#### Test. Find fit, then scale.
 Metrics for our shared outcomes in place, I create and test hypotheses to achieve those outcomes, testing proposed improvements with portions of the team. When an intervention falls short, I refine and re-test. When an intervention hits our targets I prepare it for release to the full team.
 
-### Rally. Follow the action to shared success.
+#### Rally. Follow the action to shared success.
+Evidence of fit in hand, I review the findings with design, product, and development leaders and create an implementation plan that will assure we continue to hit our shared outcomes with the new process.
