@@ -1,3 +1,6 @@
+title: Brian Hochhalter
+---
+
 ## Equipping design teams to build a better world
 
 Hello, I’m Brian. I lead experience design teams and help them scale effectively.
