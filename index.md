@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Equipping design teams to build a better world
 
-You can use the [editor on GitHub](https://github.com/brianhoch/about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I’m Brian. I lead experience design teams and help them scale effectively.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My joy is helping design teams achieve their best impact by connecting them with the tools they need to produce their best work. As a design leader, my team members and our partners in product and technology are the users.
 
-### Markdown
+I address these users’ needs through the following process:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Listen. Understand the team and context.
+I use UX research methods to understand the experience of team members and partners. This allows me to put their goals and needs at the center of improvements to design process, communication, tooling, metrics, and management.
 
-```markdown
-Syntax highlighted code block
+### Align. Orient to shared outcomes.
+With a clear understanding of needs and constraints across design, product, and technology, I work with team leaders to co-create metrics to verify when we’ve accomplished our shared outcomes.
 
-# Header 1
-## Header 2
-### Header 3
+### Test. Find fit, then scale.
+Metrics for our shared outcomes in place, I create and test hypotheses to achieve those outcomes, testing proposed improvements with portions of the team. When an intervention falls short, I refine and re-test. When an intervention hits our targets I prepare it for release to the full team.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianhoch/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Rally. Follow the action to shared success.
